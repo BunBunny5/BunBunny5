@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunBunny5
 - 👀 A curious bunny that loves discover and solve all kind of enigma (also loves creating // more of the c language team than the python one)
-- 🌱 What I'm currently learning: not able and not willing to put my work here yet
+- 🌱 What I'm currently learning: next step for me is IoT // wonderful exercise to go through
 - 💞️ I’m looking to collaborate on: update later
 - 📫 How to reach me: here r+
 <!---
